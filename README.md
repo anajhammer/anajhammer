@@ -1,0 +1,4 @@
+- 👋 oi, eu sou a @anajhammer
+- 👀 estou interessada em aprender
+- meu email de contato é: ana.hammerschmidt@escola.pr.gov.br
+- 🌱 eu estou aprendendo a programar a linguagem de JavaScript Scratch

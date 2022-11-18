@@ -1,4 +1,9 @@
+sobre mim
+leia me
 - 👋 oi, eu sou a @anajhammer
-- 👀 estou interessada em aprender
-- meu email de contato é: ana.hammerschmidt@escola.pr.gov.br
-- 🌱 eu estou aprendendo a programar a linguagem de JavaScript Scratch
+- tenho 15 anos
+- moro em Lapa Pr
+- estou aprendendo a programar javascript e Scrath
+- estudo no colégio juscelino Kubistschek
+
+-
